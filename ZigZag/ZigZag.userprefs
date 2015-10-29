@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CubeColision.cs">
+    <Files>
+      <File FileName="Assets\CubeColision.cs" Line="30" Column="4" />
+      <File FileName="Assets\CameraMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\BallMovement.cs" Line="1" Column="1" />
+      <File FileName="..\Trabajo3\Assets\BallMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\RotateCapsule.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
